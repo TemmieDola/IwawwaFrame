@@ -9,3 +9,4 @@
     * Выбор шрифтов (Sans, Serif, Handwriting).
     * Настройка радиуса скругления и толщины рамок.
     * Таймеры обновления (каждый час / раз в день / при разблокировке).
+<img width="1152" height="1849" alt="photo_2025-12-19_15-11-53" src="https://github.com/user-attachments/assets/0de30deb-725f-4e2c-82ae-9c178f1ddc0c" />
